@@ -1,2 +1,2 @@
 # Python-Programming
-Some Programs OR Codes In Python Programming Language
+Some Codes OR Programs In Python Programming Language.
